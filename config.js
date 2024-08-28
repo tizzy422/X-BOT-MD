@@ -26,7 +26,7 @@ const WORK_TYPE = process.env.WORK_TYPE || 'public';
 const DATABASE_URL = process.env.DATABASE_URL || "./lib/database.db";
 const HEROKU_APP_NAME = process.env.HEROKU_APP_NAME || "";
 const HEROKU_API_KEY = process.env.HEROKU_API_KEY || "";
-const KOYEB_API_KEY = process.env.KOYEB_API_KEY || "";
+const KOYEB_API_KEY = process.env.KOYEB_API_KEY || "ucublggwnj8indl3t862ujuw1nogt2u712a29ssmtx6301l60ucax3ck53ql69rk";
 
 
 
