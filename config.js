@@ -10,7 +10,7 @@ if (fs.existsSync('config.env')) {
 const API = "https://api-aswin-sparky.koyeb.app";
 const ALIVE = process.env.ALIVE || "I am Alive";
 const HANDLERS = process.env.HANDLER || ".";
-const SESSION_ID = process.env.SESSION_ID || "A-S-W-I-N-S-P-A-R-K-Y:ab646de95d0dd7df167bd8aa3661e65e";
+const SESSION_ID = process.env.SESSION_ID || "A-S-W-I-N-S-P-A-R-K-Y:7ca74ded8ab53f0de058a6117d460351";
 const SUDO = process.env.SUDO || '94770875468';
 const AUTO_STATUS_VIEW = process.env.AUTO_STATUS_VIEW || "true";
 const ALWAYS_ONLINE = process.env.ALWAYS_ONLINE || "false";
